@@ -11,15 +11,15 @@
 * Manage access between providers and software vendors through a secure web platform
 
 ## Targeted Platforms
-* [AbelDent] (platforms/abeldent)
-* Dentrix
-* Eaglesoft
-* EDISON
-* EasyDent
-* PracticeWorks
-* SoftDent
-* XLDent
-* MORE
+* [AbelDent](platforms/abeldent.md)
+* [Dentrix](platforms/dentrix.md)
+* [Eaglesoft](platforms/eaglesoft.md)
+* [EDISON](platforms/edison.md)
+* [EasyDent](platforms/easydent.md)
+* [PracticeWorks](platforms/easydent.md)
+* [SoftDent](platforms/softdent.md)
+* [XLDent](platforms/xldent.md)
+* [MORE](platforms/index.md)
 
 ## Supporting Members
 * Become a member
