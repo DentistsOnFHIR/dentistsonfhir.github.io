@@ -7,3 +7,5 @@
 | [EasyDent](easydent.md) | | | | | |
 | [Eaglesoft](eaglesoft.md) | | | | | |
 | [XLDent](xldent.md) | | | | | |
+
+[Back to home](/)

@@ -8,3 +8,5 @@
 | Condition |  |  |  | ✅ |
 | Patient |  |  |  | ✅ |
 | Person |  |  |  | ✅ |
+
+[Back to home](/)

@@ -9,6 +9,11 @@ Dental records by default are not interoperable. Dental Electronic Medical Recor
 
 ## Technical Architecture
 
+## Security
+Without a standard software developers are forced to find ways into the system.  Today these doorways into the system are locked front doors called APIs, where access is granted through keys and providers and vendors agree on what data they should have the ability to access.  Without an API, developers are forced to find backdoors where the key is left underneath a mat.  Obviously this is not good, but has been the only way forward.
+
+[Read more about security](security.md)
+
 ## What we do?
 * Provide open source server implementations of the FHIR standard for EMRs that do not support our guiding principles
 * Manage access between providers and software vendors through a secure web platform
