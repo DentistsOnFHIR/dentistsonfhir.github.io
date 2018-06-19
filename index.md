@@ -10,6 +10,17 @@
 * Provide open source server implementations of the FHIR standard for EMRs that do not support our guiding principles
 * Manage access between providers and software vendors through a secure web platform
 
+## Targeted Platforms
+* AbelDent
+* Dentrix
+* Eaglesoft
+* EDISON
+* EasyDent
+* PracticeWorks
+* SoftDent
+* XLDent
+* MORE
+
 ## Supporting Members
 * Become a member
 
