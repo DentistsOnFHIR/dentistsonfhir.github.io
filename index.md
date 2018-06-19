@@ -16,7 +16,7 @@
 * [Eaglesoft](platforms/eaglesoft.md)
 * [EDISON](platforms/edison.md)
 * [EasyDent](platforms/easydent.md)
-* [PracticeWorks](platforms/easydent.md)
+* [PracticeWorks](platforms/practiceworks.md)
 * [SoftDent](platforms/softdent.md)
 * [XLDent](platforms/xldent.md)
 * [MORE](platforms/index.md)
