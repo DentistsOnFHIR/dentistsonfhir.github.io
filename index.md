@@ -11,7 +11,7 @@
 * Manage access between providers and software vendors through a secure web platform
 
 ## Targeted Platforms
-* AbelDent
+* [AbelDent] (platforms/abeldent)
 * Dentrix
 * Eaglesoft
 * EDISON
