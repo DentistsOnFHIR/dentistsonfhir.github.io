@@ -1,3 +1,5 @@
+## [Home](/)
+
 ## AbelDent
 
 [Website](https://www.abelsoft.com/dental-software/)
